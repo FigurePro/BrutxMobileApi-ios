@@ -1,0 +1,10 @@
+Host: otto-user.vodfactory.com
+Content-Type: application/json;charset=utf-8
+User-Agent: BrutX/1 CFNetwork/1240.0.4 Darwin/20.5.0
+Connection: keep-alive
+platform: 39
+Accept: application/json, text/plain, */*
+Accept-Language: fr-fr
+Content-Length: 52
+transform: true
+Accept-Encoding: gzip, deflate, br
